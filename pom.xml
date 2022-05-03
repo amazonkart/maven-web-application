@@ -105,7 +105,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>facebook-snapshot</name>
-	      <url>http://3.108.219.244:8081/repository/facebook-snapshot/</url>
+	      <url>http://13.233.157.151:8081/repository/facebook-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
